@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/eee6c02d-83d3-4b4d-892a-f2fabf7d7d5d)
 
 
-# Lizard Backend
+# Lizard Backend 🦎
 
 An AI-powered agent that can interact with Pump.fun to create and manage tokens, with built-in captcha solving capabilities.
 
